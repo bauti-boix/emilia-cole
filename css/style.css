@@ -31,16 +31,16 @@ body {
     justify-content: space-between;
 
 }
-.home nav {
+nav {
     padding: 30px 50px;
 }
-.home ul {
+ul {
     list-style: none;
 }
-.home li {
+li {
     margin-bottom: 22px;
 }
-.home a {
+a {
 
     text-decoration: none;
 
@@ -121,30 +121,7 @@ body {
     justify-content: space-between;
 
 }
-.about nav {
-    padding: 30px 50px;
-}
-.about ul {
-    list-style: none;
-}
 
-
-.about li {
-    margin-bottom: 22px;
-}
-.about a {
-
-    text-decoration: none;
-
-    color: #555;
-
-    font-family: 'Raleway', sans-serif;
-
-    font-size: 16px;
-
-    font-weight: 400;
-
-}
 .about h1 {
 
     margin-bottom: 450px;
@@ -226,28 +203,7 @@ body {
     justify-content: space-between;
 
 }
-.music nav {
-    padding: 30px 50px;
-}
-.music ul {
-    list-style: none;
-}
-.music li {
-    margin-bottom: 22px;
-}
-.music a {
 
-    text-decoration: none;
-
-    color: #555;
-
-    font-family: 'Raleway', sans-serif;
-
-    font-size: 16px;
-
-    font-weight: 400;
-
-}
 .music-content {
     margin-left: 50px;
     margin-top: 100px;
@@ -357,22 +313,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-}
-.contact nav {
-    padding: 30px 50px;
-}
-.contact ul {
-    list-style: none;
-}
-.contact li {
-    margin-bottom: 22px;
-}
-.contact a {
-    text-decoration: none;
-    color: #555;
-    font-family: 'Raleway', sans-serif;
-    font-size: 16px;
-    font-weight: 400;
 }
 .contact-content {
     margin-top: 100px;
